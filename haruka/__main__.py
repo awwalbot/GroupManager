@@ -31,7 +31,7 @@ Activate Anti-spam protection in your BM by this command :
 
 
 
-Special thanks to [this person](t.me/shiwa_bhai_bot for helping me.
+Special thanks to [this person](t.me/shiwa_bhai_bot) for helping me.
 
 
 
@@ -39,9 +39,9 @@ Wa
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
-"""join support group (http://t.me/mariesupport1
+ Add me to a group by clicking [here](http://t.me/anierobot_bot?startgroup=true).
 
+join support group [here](http://t.me/anie_support) 
 
 IMPORTED = {}
 MIGRATEABLE = []
